@@ -1,6 +1,6 @@
 # radium-plugin-linter
 ```bash
-npm install radium-plugin-linter --save
+npm install radium-plugin-linter inline-style-linter --save
 ```
 Radium plugin that uses uses [inline-style-linter](https://github.com/rofrischmann/inline-style-linter) for runtime style linting.
 It is a modular & plugin-based and brings a lot of configuration options.
